@@ -6,9 +6,13 @@ It includes laboratory exercises, Python source code, assignments, projects, and
 
 ## Student Information
 
+- **Name:** [นาย วรภัทร์ ใจทอง]
+- **Student ID:** [ 116810400197-3 ]
 - **GitHub:** [Worapat216](https://github.com/Worapat216)
 - **Major:** Computer Engineering (CPE)
+- **Faculty:** Faculty of Engineering
 - **University:** Rajamangala University of Technology Thanyaburi (RMUTT)
+- **Academic Year:** 2/2569
 
 ## Course Description
 
@@ -30,21 +34,6 @@ The course follows the official course description while extending the content w
 - ML-10: Object Detection II
 - ML-11: Applications I
 - ML-12: Applications II
-
-## Repository Structure
-
-```text
-Machine-Learning-Course/
-│
-├── README.md
-│
-├── Week-01/
-│   └── README.md
-│
-├── Labs/
-├── Datasets/
-└── Projects/
-```
 
 ## Repository Includes
 
