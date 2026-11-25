@@ -12,6 +12,7 @@ It includes laboratory exercises, Python source code, assignments, projects, and
 - **Major:** Computer Engineering (CPE)
 - **Faculty:** Faculty of Engineering
 - **University:** Rajamangala University of Technology Thanyaburi (RMUTT)
+- **Section:** 1
 - **Academic Year:** 2/2569
 
 ## Course Description
